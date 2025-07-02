@@ -10,7 +10,6 @@ function App() {
     console.log('Hello My Project');
   });
 
-  return (
     <>
       <div>
         <a href="https://vite.dev" target="_blank">
